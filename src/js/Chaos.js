@@ -11,7 +11,7 @@ export default class Chaos {
     }
     this.element = elem;
 
-    this.server = 'ws://chaos-bot-organizer.herokuapp.com/ws';
+    this.server = 'wss://chaos-bot-organizer.herokuapp.com/ws';
     // this.server = 'ws://localhost:7070/ws';
 
     this.feed = this.element.querySelector('.chaos-content');
