@@ -4,7 +4,7 @@
 + [backend](https://github.com/Anna-Kolycheva/ahj-diploma-ChaosBot-backend)
 
 # Дипломное задание к курсу «Продвинутый JavaScript в браузере». Chaos Organizer   
-  <img src="./public/main.png"/>
+  <img src="./public/main.png" width="400px"/>
 
 
 ### Обязательный функционал
