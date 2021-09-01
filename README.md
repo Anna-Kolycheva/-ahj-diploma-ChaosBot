@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/yis34baat0uoxo2r?svg=true)](https://ci.appveyor.com/project/Anna-Kolycheva/ahj-diploma-chaosbot)
 
-+ [github-page](https://Anna-Kolycheva/ahj-diploma-ChaosBot.github.io/)
++ [github-page](https://anna-kolycheva.github.io/ahj-diploma-ChaosBot/)
 + [backend](https://github.com/Anna-Kolycheva/ahj-diploma-ChaosBot-backend)
 
 # Дипломное задание к курсу «Продвинутый JavaScript в браузере». Chaos Organizer   
